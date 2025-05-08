@@ -46,6 +46,9 @@
     "extra": {
       "router": {
         "origin": false
+      },
+      "eas": {
+        "projectId": "3363471f-aa79-43ed-bbe7-3ed74bcc5f45"
       }
     },
     "owner": "gauranshi15"
